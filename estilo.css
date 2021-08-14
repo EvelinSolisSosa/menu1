@@ -12,12 +12,12 @@ h1{
 		#navegador li a{
 			padding: 2px 7px 2px 7px;
 			color: #666;
-			background-color: #9EFF86;
+			background-color: #FFBF8A;
 			border: 1px solid #ccc;
 			text-decoration: none;
 		}
 		#navegador li a: hover {
-			background-color: #A4F7C6;
+			background-color: #85F488;
 			color: #F7A5A4;
 
 		}
