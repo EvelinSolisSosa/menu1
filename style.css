@@ -7,11 +7,11 @@ h1{
 
 }
 body{
-  background: #fbe4ff;
+  background: #86FFFF;
 }
 
 p {
-  background-color: #ffc9de;
+  background-color: #EBD2E0;
   border: 2px solid black;
   height: 155px;
   margin-right: 10px;
@@ -23,7 +23,7 @@ p {
 	position: relative;
 }
 #p1{
-	background-color: #e0bbe4;
+	background-color: #DAEBD2;
 	position: absolute;
 	top:0;
 	right: 0;
@@ -36,7 +36,7 @@ p {
 	font-size: 115%;
 }
 #p2{
-	background-color: #e0bbe4;
+	background-color: #85F488;
 	position: absolute;
 	top:0;
 	right: 0;
@@ -49,7 +49,7 @@ p {
 	font-size: 115%
 }
 #p3{
-	background-color: #86FFF6;
+	background-color: #F4E285;
 	position: absolute;
 	top:0;
 	right: 0;
@@ -61,7 +61,7 @@ p {
 	font-family: oblique bold,sans-serif ;
 	font-size: 115%;}
 #p4{
-	background-color: #e0bbe4;
+	background-color: #F4B985;
 	position: absolute;
 	top:0;
 	right: 0;
